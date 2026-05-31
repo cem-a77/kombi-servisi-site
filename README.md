@@ -1,2 +1,2 @@
 # kombi-servisi-site
-ilk sitemi yapmaya başlıyorum
+kombi sitesi güvenilir hızlı
